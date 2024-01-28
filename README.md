@@ -11,6 +11,7 @@
 - [Fuad’s books, articles, and video courses on Kodeco.com](https://www.kodeco.com/u/abunur)
 - [Vero](https://vero.co/flexronin)
 - [500px](https://500px.com/p/fuad2?view=photos)
+- [YouTube](https://www.youtube.com/@FuadKamal)
 - [Twitter](https://twitter.com/flexRonin)
 - [Instagram](https://www.instagram.com/flexronin/)
 
